@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  margin: 0px auto;
+}
+.heading {
+  margin: 2rem auto;
+}
+.box {
+  height: 12rem;
+  width: 12rem;
+  border: 1rem solid black;
+  border-radius: 4rem;
+}
+.box-items {
+  display: flex;
+  width: 30rem;
+  justify-content: space-between;
+  margin: 0px auto;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+.box-1 {
+  background-color: #d44f74;
+}
+.box-2 {
+  background-color: #57a0b8;
+}
+.box-3 {
+  background-color: #fa8f3a;
+}
+.box-4 {
+  background-color: #7693f8;
+}
+.flash {
+  background-color: white;
+}
+.userFlash {
+  background-color: rgb(121, 205, 121);
+}
